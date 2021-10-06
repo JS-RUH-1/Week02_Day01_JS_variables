@@ -14,8 +14,7 @@
     Output your fortune to the screen like so: "You will be a X in Y, and married to Z with N kids."
 
  
-- The Age Calculator
-<br>
+- The Age Calculator 
 
     Forgot how old someone is? Calculate it!
 
