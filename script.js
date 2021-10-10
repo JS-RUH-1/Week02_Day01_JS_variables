@@ -4,7 +4,6 @@ const yearOfBirth = 1994;
 console.log("Your Age is " + (year - yearOfBirth));
 
 /* Calculate area of a rectangle */
-
 const lengthOfRectangle = 233;
 const widthOfRectangle = 233;
 console.log("The area of your rectangle is " + (lengthOfRectangle * widthOfRectangle));
